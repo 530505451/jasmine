@@ -1,0 +1,6 @@
+cityid cityname
+1 fuzhou
+2 shandong
+3 shanghai
+4 guangzhou
+5 sichuan
